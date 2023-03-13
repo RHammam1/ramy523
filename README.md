@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, I am a Computer Science student at Hunter College and I am deeply passionate about front-end development. My interest in programming started when I was young, as I was fascinated by the ways in which technology could be used to make our lives easier and more efficient. As I grew older, I became increasingly interested in the creative aspects of programming, particularly in designing beautiful and functional user interfaces.
 
+Checkout my personal website: http://www.ramy523.github.io
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramy-hammam5) 
